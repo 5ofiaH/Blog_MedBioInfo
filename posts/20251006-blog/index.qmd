@@ -1,19 +1,44 @@
 ---
 title: "Day 1 - Intro, Quarto, and Git"
 image: atraer-visitas-blog.jpg
-description: "This is my first blog post!"
+description: "This is my first blog post! Reflections from my first day in the MedBioInfo"
 date: 10-06-2025
 categories: [Quarto, MedBioInfo, Github]
 
-draft: true
+draft: false
 ---
 
-SLUBI what it is. Most of my classmates work with sequencing, structural or single cell data. 
-Data needs to be usable and clear. FAIR. 
-Reuse your own data. 
-Its important to remember what you did and also for project takeovers.
-How soon is it for commit?
 
-This doesnt need to be perfect, you find what works for you and your project, the objective is getting better
+Today was the first session of the **Applied Bioinformatics** course in the MedBioInfo graduate program. Our teachers are **Amrei Binzer** and **Samuel Flores**.
 
+We started with introductions. Each student shared their name and research focus. Most of my classmates work with **sequencing**, **structural biology**, or **single-cell data**. It was great to hear the diversity of backgrounds.
 
+---
+
+## 🧬 What is SLUBI?
+
+Amrei introduced us to **SLUBI**, the **SLU Bioinformatics Infrastructure**. This was my first time hearing about it. 
+
+---
+
+## 🌿 Git & Branching with Samuel
+
+Later, we worked hands-on with **Git**: creating commits, branching, and pushing to GitHub.  
+At first, it was a bit confusing, but after a few tries, I got the hang of it. Definitely a skill I need to practice.
+
+---
+
+## 🧠 Key Takeaways
+
+- **Your data needs to be usable and clear.**
+- Follow the **FAIR principles**:  
+  → **Findable, Accessible, Interoperable, Reusable**
+- If you want to **reuse your own data**, you need to keep it clean, structured, and understandable.
+- Good documentation isn’t just for others — it's how *you* remember what you did.
+- **Version control doesn’t have to be perfect.**  
+  Find what works for your project. The goal is to **improve**, not be flawless.
+
+---
+
+## 📌 Final Thought
+I liked it. Everyone was very nice and the bike to get to SLU was beatiful (orange trees and lots of nature... I will add a picture tomorrow)

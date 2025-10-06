@@ -13,4 +13,8 @@ about:
 
 ---
 
-My name is Sofía Hernández!
+## 👋 Hellooo, I'm Sofía Hernández
+
+I’m originally from **Mexico** and currently pursuing my **PhD at Uppsala University** in the department of Pharmaceutical Biosciences. During my PhD, I'll be part of the **MedBioInfo graduate program**.
+
+My research focuses on **advancing Cell Painting for environmental compound screening and toxicity prediction** — combining **bioinformatics**, **machine learning**, and **high-content imaging** to better understand cellular responses.
