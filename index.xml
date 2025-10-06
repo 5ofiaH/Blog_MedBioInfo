@@ -10,6 +10,58 @@
 <atom:link href="https://5ofiaH.github.io/Blog_MedBioInfo/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Mon, 06 Oct 2025 12:34:29 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Oct 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Day 1 - Intro, Quarto, and Git</title>
+  <dc:creator>Sofia Hernandez</dc:creator>
+  <link>https://5ofiaH.github.io/Blog_MedBioInfo/posts/20251006-blog/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Today was the first session of the <strong>Applied Bioinformatics</strong> course in the MedBioInfo graduate program. Our teachers are <strong>Amrei Binzer</strong> and <strong>Samuel Flores</strong>.</p>
+<p>We started with introductions. Each student shared their name and research focus. Most of my classmates work with <strong>sequencing</strong>, <strong>structural biology</strong>, or <strong>single-cell data</strong>. It was great to hear the diversity of backgrounds.</p>
+<hr>
+<section id="what-is-slubi" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-slubi">🧬 What is SLUBI?</h2>
+<p>Amrei introduced us to <strong>SLUBI</strong>, the <strong>SLU Bioinformatics Infrastructure</strong>. This was my first time hearing about it.</p>
+<hr>
+</section>
+<section id="git-branching-with-samuel" class="level2">
+<h2 class="anchored" data-anchor-id="git-branching-with-samuel">🌿 Git &amp; Branching with Samuel</h2>
+<p>Later, we worked hands-on with <strong>Git</strong>: creating commits, branching, and pushing to GitHub.<br>
+At first, it was a bit confusing, but after a few tries, I got the hang of it. Definitely a skill I need to practice.</p>
+<hr>
+</section>
+<section id="key-takeaways" class="level2">
+<h2 class="anchored" data-anchor-id="key-takeaways">🧠 Key Takeaways</h2>
+<ul>
+<li><strong>Your data needs to be usable and clear.</strong></li>
+<li>Follow the <strong>FAIR principles</strong>:<br>
+→ <strong>Findable, Accessible, Interoperable, Reusable</strong></li>
+<li>If you want to <strong>reuse your own data</strong>, you need to keep it clean, structured, and understandable.</li>
+<li>Good documentation isn’t just for others — it’s how <em>you</em> remember what you did.</li>
+<li><strong>Version control doesn’t have to be perfect.</strong><br>
+Find what works for your project. The goal is to <strong>improve</strong>, not be flawless.</li>
+</ul>
+<hr>
+</section>
+<section id="final-thought" class="level2">
+<h2 class="anchored" data-anchor-id="final-thought">📌 Final Thought</h2>
+<p>I liked it. Everyone was very nice and the bike to get to SLU was beatiful (orange trees and lots of nature… I will add a picture tomorrow)</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Quarto</category>
+  <category>MedBioInfo</category>
+  <category>Github</category>
+  <guid>https://5ofiaH.github.io/Blog_MedBioInfo/posts/20251006-blog/</guid>
+  <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://5ofiaH.github.io/Blog_MedBioInfo/posts/20251006-blog/atraer-visitas-blog.jpg" medium="image" type="image/jpeg"/>
+</item>
 </channel>
 </rss>

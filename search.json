@@ -4,13 +4,55 @@
     "href": "about.html",
     "title": "About me",
     "section": "",
-    "text": "My name is Sofía Hernández!"
+    "text": "I’m originally from Mexico and currently pursuing my PhD at Uppsala University in the department of Pharmaceutical Biosciences. During my PhD, I’ll be part of the MedBioInfo graduate program.\nMy research focuses on advancing Cell Painting for environmental compound screening and toxicity prediction — combining bioinformatics, machine learning, and high-content imaging to better understand cellular responses."
+  },
+  {
+    "objectID": "about.html#hellooo-im-sofía-hernández",
+    "href": "about.html#hellooo-im-sofía-hernández",
+    "title": "About me",
+    "section": "",
+    "text": "I’m originally from Mexico and currently pursuing my PhD at Uppsala University in the department of Pharmaceutical Biosciences. During my PhD, I’ll be part of the MedBioInfo graduate program.\nMy research focuses on advancing Cell Painting for environmental compound screening and toxicity prediction — combining bioinformatics, machine learning, and high-content imaging to better understand cellular responses."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "MedBioInfo Blog",
     "section": "",
-    "text": "No matching items"
+    "text": "Day 1 - Intro, Quarto, and Git\n\n\n\nQuarto\n\nMedBioInfo\n\nGithub\n\n\n\nThis is my first blog post! Reflections from my first day in the MedBioInfo\n\n\n\nSofia Hernandez\n\n\nOct 6, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/20251006-blog/index.html",
+    "href": "posts/20251006-blog/index.html",
+    "title": "Day 1 - Intro, Quarto, and Git",
+    "section": "",
+    "text": "Today was the first session of the Applied Bioinformatics course in the MedBioInfo graduate program. Our teachers are Amrei Binzer and Samuel Flores.\nWe started with introductions. Each student shared their name and research focus. Most of my classmates work with sequencing, structural biology, or single-cell data. It was great to hear the diversity of backgrounds."
+  },
+  {
+    "objectID": "posts/20251006-blog/index.html#what-is-slubi",
+    "href": "posts/20251006-blog/index.html#what-is-slubi",
+    "title": "Day 1 - Intro, Quarto, and Git",
+    "section": "🧬 What is SLUBI?",
+    "text": "🧬 What is SLUBI?\nAmrei introduced us to SLUBI, the SLU Bioinformatics Infrastructure. This was my first time hearing about it."
+  },
+  {
+    "objectID": "posts/20251006-blog/index.html#git-branching-with-samuel",
+    "href": "posts/20251006-blog/index.html#git-branching-with-samuel",
+    "title": "Day 1 - Intro, Quarto, and Git",
+    "section": "🌿 Git & Branching with Samuel",
+    "text": "🌿 Git & Branching with Samuel\nLater, we worked hands-on with Git: creating commits, branching, and pushing to GitHub.\nAt first, it was a bit confusing, but after a few tries, I got the hang of it. Definitely a skill I need to practice."
+  },
+  {
+    "objectID": "posts/20251006-blog/index.html#key-takeaways",
+    "href": "posts/20251006-blog/index.html#key-takeaways",
+    "title": "Day 1 - Intro, Quarto, and Git",
+    "section": "🧠 Key Takeaways",
+    "text": "🧠 Key Takeaways\n\nYour data needs to be usable and clear.\nFollow the FAIR principles:\n→ Findable, Accessible, Interoperable, Reusable\nIf you want to reuse your own data, you need to keep it clean, structured, and understandable.\nGood documentation isn’t just for others — it’s how you remember what you did.\nVersion control doesn’t have to be perfect.\nFind what works for your project. The goal is to improve, not be flawless."
+  },
+  {
+    "objectID": "posts/20251006-blog/index.html#final-thought",
+    "href": "posts/20251006-blog/index.html#final-thought",
+    "title": "Day 1 - Intro, Quarto, and Git",
+    "section": "📌 Final Thought",
+    "text": "📌 Final Thought\nI liked it. Everyone was very nice and the bike to get to SLU was beatiful (orange trees and lots of nature… I will add a picture tomorrow)"
   }
 ]
