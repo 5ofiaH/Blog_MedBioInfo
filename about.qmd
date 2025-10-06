@@ -1,0 +1,16 @@
+---
+title: "About me"
+image: sofia.png
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sof%C3%ADa-hern%C3%A1ndez2/
+    - icon: github
+      text: Github
+      href: https://github.com/5ofiaH
+
+---
+
+My name is Sofía Hernández!

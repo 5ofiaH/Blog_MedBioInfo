@@ -1,0 +1,19 @@
+---
+title: "Day 1 - Intro, Quarto, and Git"
+image: atraer-visitas-blog.jpg
+description: "This is my first blog post!"
+date: 10-06-2025
+categories: [Quarto, MedBioInfo, Github]
+
+draft: true
+---
+
+SLUBI what it is. Most of my classmates work with sequencing, structural or single cell data. 
+Data needs to be usable and clear. FAIR. 
+Reuse your own data. 
+Its important to remember what you did and also for project takeovers.
+How soon is it for commit?
+
+This doesnt need to be perfect, you find what works for you and your project, the objective is getting better
+
+
