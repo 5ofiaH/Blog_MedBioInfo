@@ -6,10 +6,10 @@
       version="2.0">
 <channel>
 <title>MedBioInfo</title>
-<link>https://your-website-url.example.com/</link>
-<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://5ofiaH.github.io/Blog_MedBioInfo/</link>
+<atom:link href="https://5ofiaH.github.io/Blog_MedBioInfo/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Mon, 06 Oct 2025 12:25:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Oct 2025 12:26:18 GMT</lastBuildDate>
 </channel>
 </rss>
