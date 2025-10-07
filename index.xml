@@ -10,7 +10,57 @@
 <atom:link href="https://5ofiaH.github.io/Blog_MedBioInfo/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Mon, 06 Oct 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 07 Oct 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Day 2 – Environments, Pixi, QC and Containers</title>
+  <dc:creator>Sofia Hernandez</dc:creator>
+  <link>https://5ofiaH.github.io/Blog_MedBioInfo/posts/20251007-blog/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Today we started the day with an introduction to <strong>environments</strong>—what they are, why they matter, and how they support reproducible research. I’ve used environments before in my projects analysis, especially when training machine learning models. But this was my first time using <strong>Pixi</strong>, and I found it to be easy and intuitive.</p>
+<p>I’m curious to see how I can incorporate Pixi into my workflows going forward.</p>
+<hr>
+<p align="center">
+<img src="https://5ofiaH.github.io/Blog_MedBioInfo/posts/20251007-blog/cat_computer.gif" alt="Cat using computer" width="300">
+</p>
+<hr>
+<section id="what-is-an-environment-whats-pixi" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-an-environment-whats-pixi">🧪 What Is an Environment? What’s Pixi?</h2>
+<p>An <strong>environment</strong> is an isolated space where you can install software and packages without affecting your system or other projects. It helps avoid version conflicts, supports reproducibility, and makes sharing your work easier.</p>
+<p><strong>Pixi</strong> is a environment manager built for speed, simplicity, and reproducibility. It’s designed to be more intuitive than tools like “conda”, and so far it seems like it is.</p>
+<hr>
+</section>
+<section id="containers" class="level2">
+<h2 class="anchored" data-anchor-id="containers">📦🐳 Containers</h2>
+<p>We also covered <strong>containers</strong>, which allow you to package an entire computational environment—including software, dependencies, and OS libraries—into a portable unit.</p>
+<p>In practice, we used <strong>Apptainer</strong> to run tools like <strong>FastQC</strong> from BioContainers without needing to install anything locally. I imagine this is useful for when you have more complex projects.</p>
+<p>note!! We also made a <strong>cow</strong> tell us our fortune. I think this is a fair description of my PhD so far:</p>
+<p align="center">
+<img src="https://5ofiaH.github.io/Blog_MedBioInfo/posts/20251007-blog/cow.png" alt="Cow fortune" width="300">
+</p>
+<hr>
+</section>
+<section id="final-thought" class="level2">
+<h2 class="anchored" data-anchor-id="final-thought">📌 Final Thought</h2>
+<p>Today was definitely more challenging than yesterday. I felt tired by the end of the day, but again the bike to SLU was very pretty (I didn’t get lost this time).</p>
+<p>My favorite exercise was the cow!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Environments</category>
+  <category>Pixi</category>
+  <category>QC</category>
+  <category>Containers</category>
+  <guid>https://5ofiaH.github.io/Blog_MedBioInfo/posts/20251007-blog/</guid>
+  <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://5ofiaH.github.io/Blog_MedBioInfo/posts/20251007-blog/cat_computer.gif" medium="image" type="image/gif"/>
+</item>
 <item>
   <title>Day 1 - Intro, Quarto, and Git</title>
   <dc:creator>Sofia Hernandez</dc:creator>

@@ -14,11 +14,39 @@
     "text": "I’m originally from Mexico and currently pursuing my PhD at Uppsala University in the department of Pharmaceutical Biosciences. During my PhD, I’ll be part of the MedBioInfo graduate program.\nMy research focuses on advancing Cell Painting for environmental compound screening and toxicity prediction — combining bioinformatics, machine learning, and high-content imaging to better understand cellular responses."
   },
   {
+    "objectID": "posts/20251007-blog/index.html",
+    "href": "posts/20251007-blog/index.html",
+    "title": "Day 2 – Environments, Pixi, QC and Containers",
+    "section": "",
+    "text": "Today we started the day with an introduction to environments—what they are, why they matter, and how they support reproducible research. I’ve used environments before in my projects analysis, especially when training machine learning models. But this was my first time using Pixi, and I found it to be easy and intuitive.\nI’m curious to see how I can incorporate Pixi into my workflows going forward."
+  },
+  {
+    "objectID": "posts/20251007-blog/index.html#what-is-an-environment-whats-pixi",
+    "href": "posts/20251007-blog/index.html#what-is-an-environment-whats-pixi",
+    "title": "Day 2 – Environments, Pixi, QC and Containers",
+    "section": "🧪 What Is an Environment? What’s Pixi?",
+    "text": "🧪 What Is an Environment? What’s Pixi?\nAn environment is an isolated space where you can install software and packages without affecting your system or other projects. It helps avoid version conflicts, supports reproducibility, and makes sharing your work easier.\nPixi is a environment manager built for speed, simplicity, and reproducibility. It’s designed to be more intuitive than tools like “conda”, and so far it seems like it is."
+  },
+  {
+    "objectID": "posts/20251007-blog/index.html#containers",
+    "href": "posts/20251007-blog/index.html#containers",
+    "title": "Day 2 – Environments, Pixi, QC and Containers",
+    "section": "📦🐳 Containers",
+    "text": "📦🐳 Containers\nWe also covered containers, which allow you to package an entire computational environment—including software, dependencies, and OS libraries—into a portable unit.\nIn practice, we used Apptainer to run tools like FastQC from BioContainers without needing to install anything locally. I imagine this is useful for when you have more complex projects.\nnote!! We also made a cow tell us our fortune. I think this is a fair description of my PhD so far:"
+  },
+  {
+    "objectID": "posts/20251007-blog/index.html#final-thought",
+    "href": "posts/20251007-blog/index.html#final-thought",
+    "title": "Day 2 – Environments, Pixi, QC and Containers",
+    "section": "📌 Final Thought",
+    "text": "📌 Final Thought\nToday was definitely more challenging than yesterday. I felt tired by the end of the day, but again the bike to SLU was very pretty (I didn’t get lost this time).\nMy favorite exercise was the cow!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "MedBioInfo Blog",
     "section": "",
-    "text": "Day 1 - Intro, Quarto, and Git\n\n\n\nQuarto\n\nMedBioInfo\n\nGithub\n\n\n\nThis is my first blog post! Reflections from my first day in the MedBioInfo\n\n\n\nSofia Hernandez\n\n\nOct 6, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Day 2 – Environments, Pixi, QC and Containers\n\n\nReflections from my second day in the MedBioInfo course\n\n\n\nOct 7, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay 1 - Intro, Quarto, and Git\n\n\nThis is my first blog post! Reflections from my first day in the MedBioInfo\n\n\n\nOct 6, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/20251006-blog/index.html",
