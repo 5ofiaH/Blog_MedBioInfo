@@ -1,0 +1,34 @@
+---
+title: "Day 4 – nf-core RNA-seq Pipeline"
+image: nf.png
+description: "Reflections from my fourth day in the MedBioInfo course"
+date: 2025-10-09
+categories: [nf-core, RNAseq, MultiQC, Nextflow]
+draft: false
+---
+
+## 🧬 Exploring nf-core RNA-seq
+
+On day four of the Applied Bioinformatics course, we worked with the "nf-core" framework to search for and run a standardized **RNA-seq pipeline**.
+
+<p align="center">
+  <img src="nf-core-logo.png" alt="nf-core logo" width="300" />
+</p>
+
+We chose the [`nf-core/rnaseq`](https://nf-co.re/rnaseq) pipeline, this is a well-documented and modular workflow built on **Nextflow** that handles everything from quality control to read alignment and quantification.
+
+---
+
+## ⚙️ How the Pipeline Works
+
+Here’s an overview of the pipeline architecture:
+
+<p align="center">
+  <img src="pipeline.png" alt="Pipeline overview" width="500" />
+</p>
+
+Each box represents a **process** in the workflow (e.g., trimming, alignment, quantification), all managed via Nextflow. It also includes **MultiQC** for aggregating all the QC reports at the end.
+
+---
+
+This was a nice practice on how to use nf-core. 

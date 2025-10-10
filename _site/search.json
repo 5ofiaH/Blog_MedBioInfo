@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "MedBioInfo Blog",
     "section": "",
-    "text": "Day 2 – Environments, Pixi, QC and Containers\n\n\nReflections from my second day in the MedBioInfo course\n\n\n\nOct 7, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay 1 - Intro, Quarto, and Git\n\n\nThis is my first blog post! Reflections from my first day in the MedBioInfo\n\n\n\nOct 6, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Day 5 – ggplot\n\n\nReflections from my fifth day in the MedBioInfo course\n\n\n\nOct 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay 4 – nf-core RNA-seq Pipeline\n\n\nReflections from my fourth day in the MedBioInfo course\n\n\n\nOct 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay 3 – Nextflow\n\n\nReflections from my thrid day in the MedBioInfo course\n\n\n\nOct 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay 2 – Environments, Pixi, QC and Containers\n\n\nReflections from my second day in the MedBioInfo course\n\n\n\nOct 7, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay 1 - Intro, Quarto, and Git\n\n\nThis is my first blog post! Reflections from my first day in the MedBioInfo\n\n\n\nOct 6, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/20251006-blog/index.html",
@@ -110,5 +110,103 @@
     "title": "Day 2 – Environments, Pixi, QC and Containers",
     "section": "📌 Final Thought",
     "text": "📌 Final Thought\nToday was definitely more challenging than yesterday. I felt tired by the end of the day, but again the bike to SLU was very pretty (I didn’t get lost this time).\nMy favorite exercise was the cow!"
+  },
+  {
+    "objectID": "posts/20251008-blog/index.html",
+    "href": "posts/20251008-blog/index.html",
+    "title": "Day 3 – Nextflow",
+    "section": "",
+    "text": "On day 4 of the Applied Bioinformatics course, we were scheduled to work hands-on with Nextflow pipelines. However, due to technical issues with the HPCN cluster, we couldn’t access the environment.\nInstead, the day turned into a discussion-session focused on:\n\nUnderstanding the structure and logic behind Nextflow pipelines\nReflecting on how we use AI in bioinformatics workflows"
+  },
+  {
+    "objectID": "posts/20251009-blog/index.html",
+    "href": "posts/20251009-blog/index.html",
+    "title": "Day 4 – nf-core RNA-seq Pipeline",
+    "section": "",
+    "text": "On day four of the Applied Bioinformatics course, we worked with the “nf-core” framework to search for and run a standardized RNA-seq pipeline.\n\n\n\nWe chose the nf-core/rnaseq pipeline, this is a well-documented and modular workflow built on Nextflow that handles everything from quality control to read alignment and quantification."
+  },
+  {
+    "objectID": "posts/20251010-blog/index.html",
+    "href": "posts/20251010-blog/index.html",
+    "title": "Day 5 – ggplot",
+    "section": "",
+    "text": "On day five of the Applied Bioinformatics course, we explored the fundamentals of ggplot2 — one of R’s visualization libraries. We discussed principles of clarity, data storytelling, and how design choices can influence interpretation. After a short demo, we practiced building plots from scratch and then moved on to a small challenge: recreating an existing plot."
+  },
+  {
+    "objectID": "posts/20251010-blog/index.html#learning-ggplot",
+    "href": "posts/20251010-blog/index.html#learning-ggplot",
+    "title": "Day 5 – ggplot",
+    "section": "",
+    "text": "On day five of the Applied Bioinformatics course, we explored the fundamentals of ggplot2 — one of R’s visualization libraries. We discussed principles of clarity, data storytelling, and how design choices can influence interpretation. After a short demo, we practiced building plots from scratch and then moved on to a small challenge: recreating an existing plot."
+  },
+  {
+    "objectID": "posts/20251010-blog/index.html#the-challenge",
+    "href": "posts/20251010-blog/index.html#the-challenge",
+    "title": "Day 5 – ggplot",
+    "section": "🎯 The Challenge",
+    "text": "🎯 The Challenge\nFor the exercise, I chose to reproduce a plot originally published by The Economist.\nIt was a great way to apply ggplot’s layering logic (geom_, theme_, scale_), while learning to match color schemes, typography, and data layout.\n\n\n\nHere’s my recreated version using ggplot:"
+  },
+  {
+    "objectID": "posts/20251010-blog/index.html#my-own-plotting-experience",
+    "href": "posts/20251010-blog/index.html#my-own-plotting-experience",
+    "title": "Day 5 – ggplot",
+    "section": "🧠 My own plotting experience",
+    "text": "🧠 My own plotting experience\nI mostly work in Python, so using ggplot felt both familiar and new.\nIn Python, I typically rely on:\n\nPlotly – for interactive visualizations\n\nScanpy – mainly for single-cell analysis and dimensionality reduction (but I’ve also used it for image-derived features)\n\nMatplotlib – for fine-tuning plots and adjusting small details\n\nWhat I like about ggplot is the structured, layered grammar of graphics — it forces you to think about how each visual element represents part of the data. It’s less “trial and error” and more concept-driven design."
+  },
+  {
+    "objectID": "posts/20251010-blog/index.html#key-takeaways",
+    "href": "posts/20251010-blog/index.html#key-takeaways",
+    "title": "Day 5 – ggplot",
+    "section": "✨ Key Takeaways",
+    "text": "✨ Key Takeaways\n\nGood plots are not just beautiful — they’re informative and reproducible.\n\nAesthetic decisions should serve the message, not distract from it.\n\nLearning new plotting tools (like ggplot) expands how you think about data communication."
+  },
+  {
+    "objectID": "posts/20251008-blog/index.html#change-of-plans",
+    "href": "posts/20251008-blog/index.html#change-of-plans",
+    "title": "Day 3 – Nextflow",
+    "section": "",
+    "text": "On day 4 of the Applied Bioinformatics course, we were scheduled to work hands-on with Nextflow pipelines. However, due to technical issues with the HPCN cluster, we couldn’t access the environment.\nInstead, the day turned into a discussion-session focused on:\n\nUnderstanding the structure and logic behind Nextflow pipelines\nReflecting on how we use AI in bioinformatics workflows"
+  },
+  {
+    "objectID": "posts/20251008-blog/index.html#what-is-nextflow",
+    "href": "posts/20251008-blog/index.html#what-is-nextflow",
+    "title": "Day 3 – Nextflow",
+    "section": "⚙️ What is Nextflow?",
+    "text": "⚙️ What is Nextflow?\n\n\n\nNextflow is a workflow management system designed to turn computational scripts into modular, reproducible processes that can run independently and in parallel.\nThe main building blocks of a Nextflow pipeline are:\n\nProcesses:\nThese are the individual tasks, which can be in any language (bash, Python, R, etc.) and runs independently.\nChannels:\nThese act as the data pipes between processes, passing files, variables, or inputs.\n\nWe spent time understanding: - Which files are needed to run a pipeline - How to manage environments using Pixi"
+  },
+  {
+    "objectID": "posts/20251008-blog/index.html#channels-and-processes",
+    "href": "posts/20251008-blog/index.html#channels-and-processes",
+    "title": "Day 3 – Nextflow",
+    "section": "🔁 Channels and Processes",
+    "text": "🔁 Channels and Processes\n\n\n\nOne key idea is that processes don’t directly depend on each other — they communicate through channels.\n\nYou define the what (your process), and Nextflow handles the when and how based on available inputs.\n\nThis makes pipelines scalable, portable, and easy to parallelize —&gt; especially important when working with large data on HPC clusters or cloud systems."
+  },
+  {
+    "objectID": "posts/20251008-blog/index.html#reflections",
+    "href": "posts/20251008-blog/index.html#reflections",
+    "title": "Day 3 – Nextflow",
+    "section": "🧠 Reflections",
+    "text": "🧠 Reflections\nAlthough we couldn’t run pipelines today, the discussion helped clarify some important questions I had about workflow design and reproducibility.\nI also liked the conversation around how AI tools are increasingly becoming part of our daily practice as bioinformaticians. We also gave examples of how we used them."
+  },
+  {
+    "objectID": "posts/20251008-blog/index.html#key-takeaways",
+    "href": "posts/20251008-blog/index.html#key-takeaways",
+    "title": "Day 3 – Nextflow",
+    "section": "✅ Key Takeaways",
+    "text": "✅ Key Takeaways\n\nNextflow = scripts + processes + channels\n\nEach process can be written in any language — it’s fully modular\nChannels are the communication system — they connect processes with data\nWorkflow tools like Pixi simplify environment management for reproducibility\nEven when we can’t run code, talking through design and structure is essential for deep understanding\n\n\n📌 This day we also had the course dinner. This was a very nice oportunity to get to know everyone a bit better and enjoy a nice dinner. Thanks to Samuel and Amrei for making this happen!"
+  },
+  {
+    "objectID": "posts/20251009-blog/index.html#exploring-nf-core-rna-seq",
+    "href": "posts/20251009-blog/index.html#exploring-nf-core-rna-seq",
+    "title": "Day 4 – nf-core RNA-seq Pipeline",
+    "section": "",
+    "text": "On day four of the Applied Bioinformatics course, we worked with the “nf-core” framework to search for and run a standardized RNA-seq pipeline.\n\n\n\nWe chose the nf-core/rnaseq pipeline, this is a well-documented and modular workflow built on Nextflow that handles everything from quality control to read alignment and quantification."
+  },
+  {
+    "objectID": "posts/20251009-blog/index.html#how-the-pipeline-works",
+    "href": "posts/20251009-blog/index.html#how-the-pipeline-works",
+    "title": "Day 4 – nf-core RNA-seq Pipeline",
+    "section": "⚙️ How the Pipeline Works",
+    "text": "⚙️ How the Pipeline Works\nHere’s an overview of the pipeline architecture:\n\n\n\nEach box represents a process in the workflow (e.g., trimming, alignment, quantification), all managed via Nextflow. It also includes MultiQC for aggregating all the QC reports at the end.\n\nThis was a nice practice on how to use nf-core."
   }
 ]
